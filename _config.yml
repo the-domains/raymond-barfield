@@ -1,0 +1,28 @@
+name: Raymond Barfield
+favicon: null
+layout_spectrum: 0.29587541380897164
+typography_spectrum: 0.5945783010683954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2501590517349541
+  lightness: 0.41474555153399706
+  saturation: 0.7208062410354614
+  rhythmicContrast: 0.04212954011745751
+purpose: []
